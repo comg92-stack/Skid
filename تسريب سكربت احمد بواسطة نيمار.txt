@@ -1,3 +1,4 @@
+-- حقوق حسنين عمك
 wait(1.0)
 game:GetService("StarterGui"):SetCore("SendNotification", { 
  Title = "شكرا لأختيارك Neutron Hub";
@@ -11,7 +12,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
  Icon = "rbxthumb://type=Asset&id=9943307858&w=150&h=150"})
 Duration = 5;
 
-local Libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/mhydy572-sys/jshsjei/refs/heads/main/Neutron%20Hub%201.txt"))()
+local Libary = loadstring(game:HttpGet("خلي واجهه و غير حقوقك و مبروك عليك (تم التسيرب بواسطة حسنين)"))()
 
 local Window = Libary:MakeWindow({
     Title = "♡Neutron Hub",
